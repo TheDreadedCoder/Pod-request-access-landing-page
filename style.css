@@ -1,0 +1,118 @@
+body{
+	background-color: rgba(17,23,37,255);
+	overflow: hidden;
+}
+
+.wlogo{
+	margin-left: 250px;
+	margin-top: 65px;
+	height: 80px;
+}
+
+.guys{
+	margin-left: 875px;
+	position: relative;
+	top: -13px;
+	height: 750px;
+}
+
+.dots{
+	position: relative;
+	left: 1700px;
+	top: -65px;
+}
+
+.box{
+	position: relative;
+	top: -770px;
+	background-color: rgba(17, 23, 37, 255);
+	width: 930px;
+	left: 270px;
+	height: 700px;
+
+}
+
+h1{
+	font-size: 60px;
+	font-weight: 100;
+	font-family: 'Chivo', sans-serif;
+	color: rgba(96,220,179,255);
+	padding-top: 120px;
+	line-height: 75px;
+}
+
+.ev{
+	color: white;
+}
+
+.para{
+	font-family: 'Chivo', sans-serif;
+	width: 520px;
+	font-size: 23px;
+	color: rgba(119,126,144,255);
+	font-weight: 30;
+}
+
+.link{
+	background-color: rgba(44,52,75,255);
+	font-family: 'Chivo', sans-serif;
+	width: 480px;
+	display: flex;
+	border-radius: 30px;
+	margin-top: 50px;
+}
+
+.em{
+	color: rgba(119,126,144,255);
+	font-size: 16px;
+	padding-left: 5px;
+	width: 250px;
+
+}
+.button{
+	background-color: rgba(85,230,175,255);
+	border-radius: 30px;
+	width: 200px;
+	margin-left: 10px;
+	height: 40px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+
+}
+
+.re{
+	margin-left: 45px;
+	font-size: 16px;
+	width: 200px;
+	position: relative;
+	top: -2.5px;
+}
+
+.links{
+	margin-top: 70px;
+
+}
+
+.s{
+	padding-right: 40px;
+}
+
+.a{
+	padding-right: 40px;
+}
+
+.g{
+	padding-right: 40px;
+}
+
+.Email{
+	border-radius: 30px;
+	background-color:  rgba(44,52,75,255);
+	margin-top: 13px;
+	margin-left: 10px;
+}
+
+input[type="email"], textarea{
+	background-color: rgba(44,52,75,255);
+	border: none;
+}
